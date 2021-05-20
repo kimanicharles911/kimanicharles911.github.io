@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "Charles Kimani",
+    "occupation": "Student at Udemy",
+    "description": "I am a Frontend Software Developer w/ React, JavaScript(ES6) & TailwindCSS",
+    "image": "charles-kimani.jpg",
+    "bio": "I am a Frontend Software Developer w/ React, JavaScript(ES6) & TailwindCSS. However, I am still learning & practicing to be a prodigy in React, Advanced JavaScript & Advanced CSS with the best courses in the world at Udemy. I have a desire to learn Redux, Express, Postgres, SQL & MongoDB. Earlier I have attended two bootcamps: Moringa School (2020) for some basics & LakeHub Academy(2020-2021) for React, Node, MongoDB & JavaScript. I have also completed 60% of the Plurlasight.com JavaScript path. I have skills in Linux, Git, GitHub, GitLab, REST, Virtual Linux Servers, cPanel, Chrome DevTools, Bootstrap, CSS & HTML. You can check out my JavScript proficiency at codewars.com/users/kimanicharles911 and app.pluralsight.com/profile/charles-kimani . Checkout my projects at github.com/kimanicharles911",
+    "contactmessage": "Get in touch with me today!",
+    "email": "kimanicharles911@gmail.com",
+    "phone": "+254 722648834",
+    "address": {
+      "street": "465",
+      "city": "Nairobi",
+      "state": "",
+      "zip": "10100"
+    },
+    "website": "https://www.charleskimani.com/",
+    "resumedownload": "https://docs.google.com/document/d/1MbmcOMN7RjLPPIOeRDw37PM2koKZaWWi8LRJwlOuMQE/edit?usp=sharing",
+    "social": [
+      {
+        "name": "tech-blog",
+        "url": "https://techblog.charleskimani.com/",
+        "className": "fa fa-edit"
+      },
+      {
+        "name": "stackoverflow",
+        "url": "https://stackoverflow.com/users/9497346/charleskimani",
+        "className": "fa fa-stack-overflow"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kimanicharles",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/kimanicharles911",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Dedan Kimathi University of Technology - Kenya",
+        "degree": "Bachelor's Degree, Business Information Technology",
+        "graduated": "May 2020",
+        "description": "Graduated with Second Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Learning",
+        "title": "Student Software Developer",
+        "years": "Feb 2020 - Present",
+        "description": "Learning to build Web Apps/Sites w/ React, JavScript(ES6) & TailwindCSS"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "65%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "TailwindCSS",
+        "level": "99%"
+      },
+      {
+        "name": "SQL",
+        "level": "60%"
+      },
+      {
+        "name": "Redux",
+        "level": "15%"
+      },
+      {
+        "name": "Express",
+        "level": "15%"
+      },
+      {
+        "name": "Postgres",
+        "level": "10%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "15%"
+      },
+      {
+        "name": "Git",
+        "level": "99%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Device Shop (React)",
+        "category": "",
+        "image": "one-device-shop.png",
+        "url": "https://deviceshop.netlify.app/"
+      },
+      {
+        "title": "Oliveton Gallery (React & TailwindCSS)",
+        "category": "",
+        "image": "two-oliveton-gallery.png",
+        "url": "https://olivetongallery.netlify.app/"
+      },
+      {
+        "title": "Social Cards Web App (React & APIs)",
+        "category": "",
+        "image": "three-social-cards.png",
+        "url": "https://socialcards.netlify.app/"
+      },
+      {
+        "title": "Sure-Tuch (React)",
+        "category": "",
+        "image": "four-sure-tuch.png",
+        "url": "https://suretuch.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "This testimonial will be added upon receival.",
+        "user": "Coming soon"
+      },
+      {
+        "text": "This testimonial will be added upon receival.",
+        "user": "Coming soon"
+      }
+    ]
+  }
+}
