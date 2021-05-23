@@ -32,6 +32,7 @@ json-server --watch db.json --port 3005
 
 ```
 npm run build
+https://dev.to/destrodevshow/how-to-deploy-react-app-to-heroku-in-5-minutes-3dni
 ```
 
 ## How It Was Built
