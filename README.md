@@ -1,10 +1,10 @@
-# Lorem Ipsum is an App made with Dolor Sit 
+# JSON-data-portfolio (React) 
 Consectetur Adipiscing was build courtesy of [quis nostrud exercitation ullamco labboris.](http://charleskimani.com) - [Click here to now how it is used.](http://charleskimani.com)
 
 ### Deployed at:
 
 ```
-comingsoon
+desolate-hollows-00297.herokuapp.com
 ```
 
 ## Usage
