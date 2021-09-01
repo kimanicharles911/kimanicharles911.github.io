@@ -1,95 +1,66 @@
-# JSON-data-portfolio (React) 
-Consectetur Adipiscing was build courtesy of [quis nostrud exercitation ullamco labboris.](http://charleskimani.com) - [Click here to now how it is used.](http://charleskimani.com)
+# Portfolio (Reactjs, JSON, EmailJS) 
+## Description
+* This is the repository that holds the source code of [my portfolio](https://kimanicharles911.github.io/). It has my resume, links to other type of portfolios and my contact. It has been developed using Reactjs and [EmailJS](https://emailjs.com/).
 
-### Deployed at:
+## Deployed at
+* kimanicharles911.github.io
+* desolate-hollows-00297.herokuapp.com
 
-```
-desolate-hollows-00297.herokuapp.com
-```
-
-## Usage
-
-### Install dependencies
+## Setup/Installation Requirements
+##### Install Dependencies
 
 ```
 npm install
-npm i json-server
 ```
 
-### Run React dev server (http://localhost:3000)
+##### Run React Development Server
 
 ```
-npm start
+npm run start
 ```
 
-### Run the JSON server (http://localhost:3005)
-
-```
-json-server --watch db.json --port 3005
-```
-
-### To build for production
+##### To Build for Production
 
 ```
 npm run build
-https://dev.to/destrodevshow/how-to-deploy-react-app-to-heroku-in-5-minutes-3dni
+Know how to host at heroku.com - https://dev.to/destrodevshow/how-to-deploy-react-app-to-heroku-in-5-minutes-3dni
 
 heroku login
 git add . && git commit -m"your commit message" && git push heroku master
 ```
 
 ## How It Was Built
-
-### Create React App
-
+##### Create React App
 ```
 npx create-react-app 
 npm i emailjs-com --save
 ```
-
-```
-
-```
-
-
-### Helpful VS Code extension
-
-```
-
-```
-
-### Helpful Chrome extension
-
-```
-
-```
-
-### Helpful Lessons Learnt
-
-```
-techblog.charleskimani.com
-
-// Ultricies integer quis auctor
-
-// Morbi tristique senectus et netus et malesuada fames.
-
-// Amet cursus sit amet dictum sit. Porta nibh venenatis cras sed felis eget
-
-      // Velit laoreet id donec ultrices tincidunt arcu non sodales. Euismod quis viverra nibh cras. Dui accumsan sit amet nulla facilisi morbi tempus.
-
-// Nisi lacus sed viverra tellus in hac. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Velit dignissim sodales ut eu sem integer.
-```
+##### Dependencies
+* EmailJS
+* React Typewriter
 
 ### src folder structure
 ```
 src/
-  redux/
-    actions/
-      index.js
-    reducers/
-      counter.js
-      index.js     /* allReducer or rootReducer */
-      isLogged.js  
+  Components/
+    About.js
+    Contact.js
+    Footer.js
+    Header.js
+    Portfolio.js
+    Resume.js
+    Testimonials.js
+  App.css
   App.js
+  index.css
   index.js
+  registerServiceWorker.js
 ```
+
+## Credits
+##### Original Idea
+* <a href="https://github.com/tbakerx/Tim-Baker-Personal-Website">Tim Baker</a>
+
+##### Inspiration
+* <a href="https://github.com/nordicgiant2/react-nice-resume">Nordic Giant</a>
+* <a href="https://github.com/sonnysangha/Resume-Portfolio-Starter-pack">Sonny Sangha</a>
