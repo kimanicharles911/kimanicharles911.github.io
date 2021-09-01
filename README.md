@@ -65,5 +65,5 @@ src/
 * <a href="https://github.com/nordicgiant2/react-nice-resume">Nordic Giant</a>
 * <a href="https://github.com/sonnysangha/Resume-Portfolio-Starter-pack">Sonny Sangha</a>
 
-## License and copyright information.
+## License and Copyright Information.
 See [my MIT LICENSE](https://github.com/kimanicharles911//kimanicharles911.github.io/blob/master/LICENSE.txt) for details.
