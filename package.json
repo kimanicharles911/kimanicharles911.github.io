@@ -2,7 +2,7 @@
   "name": "resume_starter_pack",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kimanicharles911.github.io/JSON-data-portfolio",
+  "homepage": "./",
   "engines": {
     "node": "14.15.1"
   },
