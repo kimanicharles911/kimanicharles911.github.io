@@ -3,8 +3,8 @@
 * This is the repository that holds the source code of [my portfolio](https://kimanicharles911.github.io/). It has my resume, links to other type of portfolios and my contact. It has been developed using Reactjs and [EmailJS](https://emailjs.com/).
 
 ## Deployed at
-* kimanicharles911.github.io
-* desolate-hollows-00297.herokuapp.com
+* [kimanicharles911.github.io](https://kimanicharles911.github.io/)
+* [desolate-hollows-00297.herokuapp.com](https://desolate-hollows-00297.herokuapp.com/)
 
 ## Setup/Installation Requirements
 ##### Install Dependencies
