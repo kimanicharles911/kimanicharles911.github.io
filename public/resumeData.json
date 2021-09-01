@@ -1,16 +1,16 @@
 {
   "main": {
     "name": "Charles Kimani",
-    "occupation": "Student at Udemy",
-    "description": "I am a Frontend Software Developer w/ React, JavaScript(ES6) & TailwindCSS",
+    "occupation": "Software Engineer looking for a job",
+    "description": "I take part in serving my Nation 🇰🇪 and the World to have top-scale software that entirely fulfills their goals and makes life blissful.  ",
     "image": "charles-kimani.jpg",
-    "bio": "I am a Frontend Software Developer w/ React, JavaScript(ES6) & TailwindCSS. However, I am still learning & practicing to be a prodigy in React, Advanced JavaScript & Advanced CSS with the best courses in the world at Udemy. I have a desire to learn Redux, Express, Postgres, SQL & MongoDB. Earlier I have attended two bootcamps: Moringa School (2020) for some basics & LakeHub Academy(2020-2021) for React, Node, MongoDB & JavaScript. I have also completed 60% of the Plurlasight.com JavaScript path. I have skills in Linux, Git, GitHub, GitLab, REST, Virtual Linux Servers, cPanel, Chrome DevTools, Bootstrap, CSS & HTML. You can check out my JavScript proficiency at codewars.com/users/kimanicharles911 and app.pluralsight.com/profile/charles-kimani . Checkout my projects at github.com/kimanicharles911",
+    "bio": "I am a Software Engineer who has made a variety of software with the ultimate end of fulfilling the needs and making life blissful for my clients. You can jump to the projects section and see solutions that I have made. In 2020 I graduated with a Bachelor's degree in Business Information Technology from Dedan Kimathi University. As I look for a job I am a FullStack Web Development Student at The HyperionDev bootcamp learning MongoDB, Expressjs, Reactjs, Nextjs and Nodejs.",
     "contactmessage": "Get in touch with me today!",
     "email": "kimanicharles911@gmail.com",
     "phone": "+254 722648834",
     "address": {
       "street": "465",
-      "city": "Nairobi",
+      "city": "Nyeri, Kenya",
       "state": "",
       "zip": "10100"
     },
@@ -47,52 +47,50 @@
         "degree": "Bachelor's Degree, Business Information Technology",
         "graduated": "May 2020",
         "description": "Graduated with Second Class Honours"
+      },
+      {
+        "school": "HyperionDev -  Online",
+        "degree": "Micro Degree, FullStack Web Development",
+        "graduated": "July 2021 - Present",
+        "description": "Learning MongoDB, Expressjs, Reactjs, Nextjs and Nodejs"
       }
     ],
     "work": [
       {
-        "company": "Learning",
-        "title": "Student Software Developer",
-        "years": "Feb 2020 - Present",
-        "description": "Learning to build Web Apps/Sites w/ React, JavScript(ES6) & TailwindCSS"
+        "company": "Looking for Work",
+        "title": "Software Engineer",
+        "years": "Present",
+        "description": "Hire Me!"
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "65%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "70%"
-      },
-      {
-        "name": "TailwindCSS",
-        "level": "99%"
-      },
-      {
-        "name": "SQL",
-        "level": "60%"
-      },
-      {
-        "name": "Redux",
-        "level": "15%"
+        "level": "90%"
       },
       {
         "name": "Express",
-        "level": "15%"
+        "level": "90%"
       },
       {
-        "name": "Postgres",
-        "level": "10%"
+        "name": "Node",
+        "level": "90%"
       },
       {
         "name": "MongoDB",
-        "level": "15%"
+        "level": "90%"
       },
       {
-        "name": "Git",
-        "level": "99%"
+        "name": "Redux",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "SQL",
+        "level": "90%"
       }
     ]
   },
