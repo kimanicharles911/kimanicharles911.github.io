@@ -1,6 +1,6 @@
 # Portfolio (Reactjs, JSON, EmailJS) 
 ## Description
-* This is the repository that holds the source code of [my portfolio](https://kimanicharles911.github.io/). It has my resume, links to other type of portfolios and my contact. It has been developed using Reactjs and [EmailJS](https://emailjs.com/).
+* This is the repository that holds the source code of [my portfolio](https://kimanicharles911.github.io/). It has my resume, links to other types of portfolios and my contact. It has been developed using Reactjs and [EmailJS](https://emailjs.com/).
 
 ## Deployed at
 * [kimanicharles911.github.io](https://kimanicharles911.github.io/)
